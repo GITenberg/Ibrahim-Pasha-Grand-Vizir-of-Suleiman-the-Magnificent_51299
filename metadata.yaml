@@ -1,0 +1,26 @@
+_repo: Ibrahim-Pasha-Grand-Vizir-of-Suleiman-the-Magnificent_51299
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jenkins, Hester Donaldson
+    alias: Jenkins, H. D. (Hester Donaldson)
+    birthdate: 1869
+    deathdate: 1941
+    gutenberg_agent_id: '46347'
+    url: http://www.gutenberg.org/2009/agents/46347
+description: ''
+gutenberg_issued: '2016-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51299'
+  lccn: '12004786'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ibrahim Pasa, 1493?-1536'
+- !lcc 'DR'
+- GITenberg
+title: 'Ibrahim Pasha: Grand Vizir of Suleiman the Magnificent'
+url: http://www.gutenberg.org/ebooks/51299
